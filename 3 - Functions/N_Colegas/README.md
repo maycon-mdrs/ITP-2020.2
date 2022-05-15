@@ -9,6 +9,11 @@ Então você resolveu descobrir o que chamou de números colegas. Dois números 
 
 Por exemplo, 140 e 195 são colegas, pois a soma dos divisores próprios de 140 é 196 (diferença de 1 para 195) e a soma dos divisores próprios de 195 é 141 (diferença de 1 para 140).
 
-O seu programa deve ler dois inteiros (suponha que sejam sempre diferentes) e escrever S caso sejam colegas e N caso contrário.​
+O seu programa deve ler dois inteiros (suponha que sejam sempre diferentes) e escrever S caso sejam colegas e N caso contrário.
 
 Além disso seu programa deve utilizar duas funções: uma para somar os divisores próprios de um número e outra para retornar se dois números são colegas ou não.
+
+| Exemplo de entrada |	Exemplo de saída |
+| --- | --- |
+| 1 2 |	S |
+| 6 8 |	S |
